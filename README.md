@@ -2,6 +2,8 @@
 
 This is my second unity game project! The game is a little rough
 
+It only works on PC/Laptop right now.
+
 To play, go to https://hpb0ss.github.io/Rocket-Boost/ or https://rocket-boost.netlify.app
 
 OR
