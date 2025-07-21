@@ -2,6 +2,10 @@
 
 This is my second unity game project! The game is a little rough
 
+To play, go to https://hpb0ss.github.io/Rocket-Boost/
+
+OR
+
 To download the game, click on Game upload in releases and click on the Obstacle.zip, download the zip file, unzip it and run the Rocket Boost application, have fun!!!!!
 
 Use Space for thrust and "A" and "D" key for left and right rotations, you can also use the left arrow and right arrow
