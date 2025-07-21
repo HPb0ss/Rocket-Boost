@@ -2,7 +2,7 @@
 
 This is my second unity game project! The game is a little rough
 
-To play, go to https://hpb0ss.github.io/Rocket-Boost/
+To play, go to https://hpb0ss.github.io/Rocket-Boost/ or https://rocket-boost.netlify.app
 
 OR
 
